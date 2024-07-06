@@ -160,7 +160,7 @@ See "Text to Pilots" section for context.
 | --- | --- | --- | --- |
 |   .T <br>  ({==SUBJECT POINT ==}) <br> ({==E/W/N/S for PIT restrictions ==})   |   Issues a crossing restriction to the pilot for the given subject point.   |   .{==EMMMA==} <br> .{==SLT==} <br> .{==PSB==} <br> .{==PSB==}<ins>LGA</ins> <br> .{==CUTTA==}{==E==}   |   The .PSBLGA command is the one command that is different than the rest to set it apart from the base .PSB command.   |
 
-## FE-Buddy Commands
+## FE-BUDDY COMMANDS
 The following aliases are generated every AIRAC cycle by FE-Buddy and merged into the ZOB alias file.
 
 ### In-Scope Reference
